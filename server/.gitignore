@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Secrets and Credentials (DO NOT COMMIT)
+.env
+service-account.json
+
+# Generated files or Logs
+response.json
+*.log
+npm-debug.log*
