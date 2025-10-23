@@ -31,7 +31,7 @@ Build AI-Powered-Video-Analyzer from the source and install dependencies:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mudassar123Khan/AI-Powered-Video-Analyzer](https://github.com/Mudassar123Khan/AI-Powered-Video-Analyzer)
+    git clone https://github.com/Mudassar123Khan/AI-Powered-Video-Analyzer
     ```
 
 2.  **Navigate to the project directory:**
